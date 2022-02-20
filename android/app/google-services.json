@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "42850880315",
+    "project_id": "faujihouse-2d7cc",
+    "storage_bucket": "faujihouse-2d7cc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:42850880315:android:19c81f88143eaeb4ad851e",
+        "android_client_info": {
+          "package_name": "com.example.fauji_house_app_new"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "42850880315-umam3kfomvdm8769r0h8vmbqf96tau6v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fauji_house_app_new",
+            "certificate_hash": "69f4f8897d23d2c5dd5bdde5aa79fa58bbfc960f"
+          }
+        },
+        {
+          "client_id": "42850880315-brma99u4s12gciddnfn2reueo6ddcb3q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_VKokELL3TycSZ4ZLhMRd_MJhs8UMUnA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "42850880315-brma99u4s12gciddnfn2reueo6ddcb3q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
