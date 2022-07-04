@@ -116,6 +116,7 @@ class _ProfileEditingPageState extends State<ProfileEditingPage> {
                 child: TextFormField(
 
                   decoration: InputDecoration(
+                    floatingLabelBehavior: FloatingLabelBehavior.never,
                     labelText: "Enter User Name.",
                     labelStyle:TextStyle(color:Colors.green),
                     border:InputBorder.none,
@@ -172,6 +173,7 @@ class _ProfileEditingPageState extends State<ProfileEditingPage> {
                 child: TextFormField(
 
                   decoration: InputDecoration(
+                    floatingLabelBehavior: FloatingLabelBehavior.never,
                     labelText: "Enter Email.",
                     labelStyle:TextStyle(color:Colors.green),
                     border:InputBorder.none,
@@ -229,6 +231,7 @@ class _ProfileEditingPageState extends State<ProfileEditingPage> {
                 child: TextFormField(
 
                   decoration: InputDecoration(
+                    floatingLabelBehavior: FloatingLabelBehavior.never,
                     labelText: "Enter Date Of Birth.",
                     labelStyle:TextStyle(color:Colors.green),
                     border:InputBorder.none,
@@ -285,6 +288,7 @@ class _ProfileEditingPageState extends State<ProfileEditingPage> {
                 child: TextFormField(
 
                   decoration: InputDecoration(
+                    floatingLabelBehavior: FloatingLabelBehavior.never,
                     labelText: "Enter Contact Number.",
                     labelStyle:TextStyle(color:Colors.green),
                     border:InputBorder.none,
@@ -341,6 +345,7 @@ class _ProfileEditingPageState extends State<ProfileEditingPage> {
                 child: TextFormField(
 
                   decoration: InputDecoration(
+                    floatingLabelBehavior: FloatingLabelBehavior.never,
                     labelText: "Enter Address.",
                     labelStyle:TextStyle(color:Colors.green),
                     border:InputBorder.none,
@@ -396,6 +401,7 @@ class _ProfileEditingPageState extends State<ProfileEditingPage> {
                 child: TextFormField(
 
                   decoration: InputDecoration(
+                    floatingLabelBehavior: FloatingLabelBehavior.never,
                     labelText: "Enter Family Members.",
                     labelStyle:TextStyle(color:Colors.green),
                     border:InputBorder.none,
@@ -492,6 +498,7 @@ class _ProfileEditingPageState extends State<ProfileEditingPage> {
                 child: TextFormField(
 
                   decoration: InputDecoration(
+                    floatingLabelBehavior: FloatingLabelBehavior.never,
                     labelText: "Enter Current State.",
                     labelStyle:TextStyle(color:Colors.green),
                     border:InputBorder.none,
@@ -548,6 +555,7 @@ class _ProfileEditingPageState extends State<ProfileEditingPage> {
                 child: TextFormField(
 
                   decoration: InputDecoration(
+                    floatingLabelBehavior: FloatingLabelBehavior.never,
                     labelText: "Enter Home State.",
                     labelStyle:TextStyle(color:Colors.green),
                     border:InputBorder.none,
